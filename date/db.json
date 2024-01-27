@@ -1,0 +1,34 @@
+{
+  "trips": [
+    {
+      "title": "Lorem ipsum dolor sit amet Salom man Inson hastam man dar donishgoni TTU mekhonam",
+      "loc": "Tajikistan",
+      "id": "1"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet and con Cum",
+      "loc": "Tajikistan",
+      "id": "2"
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet and con Cum",
+      "loc": "Tajikistan",
+      "id": "3"
+    },
+    {
+      "title": "Muslihiddini KUNTE dars namekhonad",
+      "loc": "Tajikistan",
+      "id": "4"
+    },
+    {
+      "title": "One day in Iran Library",
+      "loc": "Iran",
+      "id": "5"
+    },
+    {
+      "title": "My Country is Tajisikistan",
+      "loc": "Tajikistan",
+      "id": "6"
+    }
+  ]
+}
