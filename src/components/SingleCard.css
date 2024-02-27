@@ -1,0 +1,33 @@
+.grid-card {
+  max-width: 850px;
+  min-width: 400px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+.grid-card .card {
+  position: relative;
+}
+.grid-card .card img {
+  border-radius: 15px;
+  width: 118px;
+  box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.9);
+  cursor: pointer;
+}
+.card .front {
+  position: absolute;
+  transition-duration: 300ms;
+  transform: rotateY(90deg);
+}
+.fliped .front {
+  transition-duration: 400ms;
+  transform: rotateY(0deg);
+}
+.card .back {
+  transition-duration: 400ms;
+  transform: rotateY(0deg);
+}
+.fliped .back {
+  transition-duration: 300ms;
+  transform: rotateY(90deg);
+}
